@@ -1,6 +1,7 @@
 ---
 title: 剧本大纲
 createTime: 2025/12/29 21:26:32
+permalink: /script/74ughzlh/
 ---
 ## 这是供剧组人员查看的大纲  
 
