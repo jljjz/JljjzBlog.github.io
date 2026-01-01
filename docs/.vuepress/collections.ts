@@ -46,6 +46,7 @@ const blog = defineCollection({
   //   postCover: 'right', // 文章封面位置
 })
 
+/*
 const script = defineCollection({
   type: 'doc',
   dir: 'script',
@@ -53,6 +54,7 @@ const script = defineCollection({
   linkPrefix: '/script/',
   sidebar: 'auto'
 })
+*/
 
 /**
  * 导出所有的 collections
@@ -61,5 +63,5 @@ const script = defineCollection({
  */
 export default defineCollections([
   blog,
-  script
+  // script
 ])
